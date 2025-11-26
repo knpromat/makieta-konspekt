@@ -17,15 +17,15 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 import time
 
-project = 'FT2zXcXvX'
-author = '[AUTORZY]'
+project = 'lokomotywaAGH'
+author = 'KN PROMAT'
 titlepage = {
-        "faculty": "Fizyki i Informatyki Stosowanej",
+        "faculty": "Inżynierii Metali i Informatyki Przemysłowej",
         "year": "auto",
-        "groupID": "[NR GRUPY ĆWICZENIOWEJ]",
-        "team": "[NR ZESPOŁU]",
-        "title": "[TEMAT ĆWICZENIA]",
-        "number": "[NUMER ĆWICZENIA]",
+        "groupID": "GR25",
+        "team": "-",
+        "title": "Budowa interaktywnego stanowiska szkoleniowego do nauki programowania i obsługi robota przemysłowego",
+        "number": "-",
 
         "taskDate": "auto", # [DATA LABORATORIUM]
         "creationDate": "auto", # [DATA POWSTANIA SPRAWOZDANIA]
@@ -33,7 +33,7 @@ titlepage = {
 
         # nothing to change here
         "author": author,
-        "subject": "PRACOWNIA FIZYCZNA WFiS AGH",
+        "subject": "KN PROMAT",
 }
 
 if titlepage["taskDate"] == "auto":
